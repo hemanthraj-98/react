@@ -1,0 +1,22 @@
+body {
+  background-color: white;
+  color: black;
+  padding: 20px;
+  font-family: Sans-Serif;
+  text-align: left;
+}
+p {
+  width: 50%;
+  padding-left: 25%;
+  font-size: 18px;
+}
+ h2{
+  padding-left: 25%;
+  font-size: 27px;
+ }
+
+ img{
+  padding-left: 25%;
+  width: 50%;
+  height: 25%;
+ }
